@@ -1,0 +1,62 @@
+程序设计
+	Microsoft Visual Basic 6.0
+	CodeBlocks 12.11
+	Dev-C++ 5.11
+	JDK 12.0.2
+	Netbeans-Ncre2007
+	Microsoft Visual C++ 2010 Express
+	python 3.7.4
+	Anaconda3
+	VC6.0
+	Visual Studio 2019
+	Visual Studio Code
+	Git
+	JDK 1.8.2
+	NetBeans IDE 8.2
+	Energia 1.8.7
+	VMPlayer 12
+		Ubuntu-i386 密码：123456
+	Keil uv5
+	TD-OSC
+	HBuilderX
+
+ChangeLog
+	2020-10-14 v1.3
+		安装HBuilderX
+	2020-08-10 v1.2
+		安装TD-OSC
+	2020-08-10 v1.1
+		安装Keil uv5
+	2020-02-06 v1.0
+		升级虚拟桌面底层
+	2020-01-06 v0.9
+		升级机房管理系统
+	2019-12-19 v0.8
+		安装VMPlayer 12
+		安装虚拟机Ubuntu-i386 密码：123456
+	2019-12-13 v0.7
+		安装Energia 1.8.7
+	2019-10-23 v0.6
+		安装MinGW
+	2019-10-14 v0.5
+		安装JDK 1.8.2
+		安装NetBeans IDE 8.2
+	2019-10-09 v0.4
+		安装Visual Studio Code
+		安装Git
+		升级机房管理系统
+		安装极域电子教室
+	2019-10-09 v0.301
+		安装Visual Studio 2019
+	2019-09-09 v0.2
+		安装VC6.0
+		启用机房管理系统
+	2019-09-03 v0.1
+		安装Microsoft Visual Basic 6.0
+		安装CodeBlocks 12.11
+		安装Dev-C++ 5.11
+		安装JDK 12.0.2
+		安装Netbeans-Ncre2007
+		安装Microsoft Visual C++ 2010 Express
+		安装python 3.7.4
+		安装Anaconda3
